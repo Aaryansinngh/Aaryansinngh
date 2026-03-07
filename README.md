@@ -1,4 +1,4 @@
-# Hi, I'm Aryan Singh 👋
+# Hi, I'm Aryan Singh 
 
 🎓 Computer Science Student @ Manipal University Jaipur  
 🔍 Interests: **AI Safety • Cybersecurity • Systems Engineering**  
