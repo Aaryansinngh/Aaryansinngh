@@ -21,20 +21,15 @@ Tool for validating datasets and detecting anomalies using machine learning.
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Python • C/C++ • JavaScript • Git • Linux
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaryansinngh&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryansinngh&layout=compact&theme=tokyonight" height="165"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaryansinngh&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryansinngh&layout=compact)
 
 ---
 
@@ -46,10 +41,4 @@ Tool for validating datasets and detecting anomalies using machine learning.
 
 ---
 
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aaryansinngh&color=blue)
-
----
-
-⭐ *Always learning and building new things in AI, security, and systems.*Enter file contents here
+⭐ Always learning and building new things in AI, security, and systems.Enter file contents here
