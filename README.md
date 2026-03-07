@@ -41,4 +41,4 @@ Python • C/C++ • JavaScript • Git • Linux
 
 ---
 
-⭐ Always learning and building new things in AI, security, and systems.Enter file contents here
+⭐ Always learning and building new things in AI, security, and systems.
