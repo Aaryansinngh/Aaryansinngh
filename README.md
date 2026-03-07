@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Aryan Singh 👋
 
-<!--
-**Aaryansinngh/Aaryansinngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student @ Manipal University Jaipur  
+🔍 Interests: AI Safety, Cybersecurity, Systems Engineering  
+💻 Passionate about building reliable and secure AI systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+🔹 **StateGuard-AI**  
+AI verification framework using bounded state space exploration to detect unsafe AI decisions.
+
+🔹 **SafeStreet-AI**  
+AI-powered urban safety monitoring system for threat detection using surveillance data.
+
+🔹 **AI-Driven Data Verification System**  
+Tool for validating datasets and detecting anomalies using machine learning.
+
+---
+
+## 🛠 Tech Stack
+
+Python • C/C++ • JavaScript • Git • Linux
+
+---
+
+## 📈 GitHub Stats
+
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaryansinngh&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+
+GitHub: https://github.com/Aaryansinngh  
+LinkedIn: https://linkedin.com/in/aaryansingh-775242317Enter file contents here
