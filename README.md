@@ -11,8 +11,7 @@
 
 ### `AI Safety · Cybersecurity · Systems Engineering`
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Aaryansinngh&color=0d1117&style=flat-square&label=profile+views)](https://github.com/Aaryansinngh)
-[![GitHub followers](https://img.shields.io/github/followers/Aaryansinngh?style=flat-square&color=0d1117&labelColor=161b22)](https://github.com/Aaryansinngh?tab=followers)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22)](https://linkedin.com/in/aaryansingh-775242317)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-0d1117?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=161b22)](https://leetcode.com/u/aaryansinngh/)
 
