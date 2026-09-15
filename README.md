@@ -1,156 +1,94 @@
-```
- ██████╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗    ███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗
-██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║    ██╔════╝██║████╗  ██║██╔════╝ ██║  ██║
-███████║██████╔╝ ╚████╔╝ ███████║██╔██╗ ██║    ███████╗██║██╔██╗ ██║██║  ███╗███████║
-██╔══██║██╔══██╗  ╚██╔╝  ██╔══██║██║╚██╗██║    ╚════██║██║██║╚██╗██║██║   ██║██╔══██║
-██║  ██║██║  ██║   ██║   ██║  ██║██║ ╚████║    ███████║██║██║ ╚████║╚██████╔╝██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
-```
+<div align="center">
 
-### `AI Safety · Cybersecurity · Systems Engineering`
+# Aryan Singh
+
+### `Software Engineering · Machine Learning · Cybersecurity`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22)](https://linkedin.com/in/aaryansingh-775242317)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-0d1117?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=161b22)](https://leetcode.com/u/aaryansinngh/)
+[![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:aaryansinngh8@gmail.com)
+
+</div>
 
 ---
 
-## `> whoami`
+## About
 
-```python
-class AryanSingh:
-    def __init__(self):
-        self.role      = "CS Undergrad @ Manipal University Jaipur"
-        self.focus     = ["AI Safety", "Adversarial ML", "Cybersecurity", "Systems Engineering"]
-        self.currently = "Building JARVIS — a local-first personal AI operating system"
-        self.belief    = "Powerful systems are only as good as their safety guarantees."
-        self.status    = "Open to research collaborations & internship opportunities"
-
-    def __repr__(self):
-        return "Engineer who thinks in threat models and safety proofs."
-```
-
-I build AI systems with security-first design — from intrusion detection engines to formal verification frameworks. I'm interested in the hard problems at the intersection of machine learning and system reliability: **what happens when models fail, and how do we stop them from failing dangerously?**
+Second-year B.Tech Computer Science & Engineering student at Manipal University Jaipur, working across machine learning, cybersecurity, and full-stack systems. Currently under academic evaluation for two co-authored research papers — a leakage-free intrusion detection framework and a diabetes-risk prediction pipeline. Google Cybersecurity certified, with IBM SkillsBuild AI Fundamentals as well.
 
 ---
 
-## `> currently_building`
+## Experience
 
-| | |
-| --- | --- |
-| 🤖 | **[JARVIS](https://github.com/Aaryansinngh/JARVIS)** — *Local-First Personal AI Operating System*<br>A persistent, privacy-preserving developer assistant running entirely on local hardware. Features a knowledge graph memory layer (SQLite), semantic codebase indexing (ChromaDB + RAG), Ollama LLM integration, a FastAPI backend, and a browser-based frontend. Engineered for sub-5-second cold starts via lazy-loaded ML pipelines. Think of it as your own private Copilot — with full control over your data.<br>`Python` `FastAPI` `ChromaDB` `Ollama` `SQLite` `RAG` |
-| 🧩 | **PETER** — *Personal Execution & Task Engine Runtime*<br>A plugin-based personal automation system with a scored intent-arbitration engine, a three-layer memory architecture, and native integrations for browser control, Gmail, and Spotify. Built on FastAPI + WebSockets for real-time task execution.<br>`Python` `FastAPI` `WebSockets` `Plugin Architecture` |
-
----
-
-## `> projects`
-
-**🔴 Security & Intrusion Detection**
-
-**[ML Intelligent Firewall](https://github.com/Aaryansinngh/ml-intelligent-firewall)**
-> Real-time network intrusion detection system powered by **LightGBM**, with a hybrid Bayesian–Grid hyperparameter optimization approach and a two-stage feature selection pipeline. Trained and evaluated on the CICIDS2017 benchmark using ROC-AUC and confusion matrices. Basis for an in-progress academic paper.
-
-`Python` `LightGBM` `scikit-learn` `CICIDS2017` `Network Security` `Bayesian Optimization`
-
-**🟡 AI Safety & Verification**
-
-**[StateGuard-AI](https://github.com/Aaryansinngh/StateGuard-AI)**
-> Formal AI verification framework using **bounded state space exploration** to detect unsafe AI decisions before deployment. Automatically generates counterexamples for edge-case failures — a critical tool for safety-critical AI systems where failures have real-world consequences.
-
-`Python` `Formal Verification` `State Machine Analysis` `AI Safety`
+**Project Intern — Bharat Heavy Electricals Limited (BHEL)** · *May–Jun 2026*
+HEP Bhopal, DTG Department
+- Designed and built a **Digital Work Order Management System** replacing manual, paper-based tracking — full-stack app with React.js frontend, FastAPI backend, PostgreSQL database.
+- Developed RESTful APIs and relational schemas for work-order creation, assignment, and status tracking.
+- Built an **AI-powered document Q&A system** for natural-language search over internal technical documentation, cutting manual lookup time for engineering staff.
 
 ---
 
-**[AI-Driven Data Verification System](https://github.com/Aaryansinngh/AI-Driven-Data-Verification-System)**
-> A validation pipeline for detecting **dataset anomalies and distributional drift** using unsupervised ML techniques. Designed to catch poisoned or corrupted training data before it affects model behaviour — a core concern in adversarial machine learning.
+## Research
 
-`Python` `Anomaly Detection` `Data Integrity` `ML Security`
+**LightGBM-Based Network Intrusion Detection Framework with Hybrid Hyperparameter Optimization**
+*Under evaluation · Manipal University Jaipur · Co-authored with faculty advisors*
+- Leakage-free pipeline on the full, imbalanced CICIDS2017 dataset — train/test split constructed before feature selection to avoid the leakage that inflates results elsewhere in the literature.
+- Two-stage feature selection (Pearson correlation filtering + LightGBM gain-based ranking): 78 → 10 features.
+- Hybrid Bayesian–Grid hyperparameter search (Optuna TPE + GridSearchCV) re-tuned end-to-end on the corrected feature set.
+- Reaches **99.37% accuracy, MCC 0.9793, macro F1 0.75** on a held-out split; validated with repeated cross-validation and honest reporting of feature-selection stability and cross-dataset transfer limits.
+- 📄 [Read the manuscript](https://github.com/Aaryansinngh/IDS-LightGBM-Paper)
 
-**🟢 Applied AI Systems**
-
-**SafeStreet-AI**
-> AI-powered urban safety monitoring system for **real-time threat detection** from surveillance data. Combines computer vision with anomaly detection to flag potential threats — built with privacy-preserving principles at the architecture level.
-
-`Python` `Computer Vision` `Real-Time Inference` `Edge Deployment`
-
----
-
-## `> areas_of_interest`
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   🛡️  AI Safety & Alignment       🔬  Adversarial Machine Learning  │
-│   🔐  Cybersecurity & Threat Intel  ⚙️  Systems Design & Reliability │
-│   🧠  LLM Infrastructure           📊  Formal Verification Methods  │
-│   🕵️  Intrusion Detection Systems  🌐  Network Security Engineering │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+**Chronic Disease Prediction Using Machine Learning**
+*Under evaluation · Manipal University Jaipur · Co-authored with faculty advisors*
+- Diabetes risk prediction on the BRFSS 2015 Diabetes Health Indicators dataset.
+- Preprocessing, feature selection, hyperparameter tuning, repeated cross-validation, and threshold optimization, benchmarked against Logistic Regression and Random Forest.
 
 ---
 
-## `> learning_and_research`
+## Projects
 
-- 🔭 Exploring **mechanistic interpretability** — understanding how transformer models form internal representations
-- 📖 Reading: *Concrete Problems in AI Safety* (Amodei et al.) · *The Art of Exploitation* (Erickson)
-- 🧪 Researching **red-teaming methodologies** for large language models
-- 🏗️ Deepening expertise in **RAG pipelines, vector databases**, and production ML systems
-- 🔐 Studying **differential privacy** and **federated learning** for privacy-preserving AI
+**[JARVIS — Local-First AI Desktop Assistant](https://github.com/Aaryansinngh/jarvis-dev)**
+`Python` `FastAPI` `ChromaDB` `Ollama` `SQLite`
+- Privacy-preserving personal AI assistant with a knowledge-graph memory layer (SQLite), semantic codebase indexing via RAG (ChromaDB), and fully local LLM inference through Ollama.
+- FastAPI backend with a browser-based frontend; cold-start latency optimized to under 5 seconds via lazy-loaded ML pipelines.
 
----
+**[ML Intelligent Firewall — Real-Time Intrusion Detection System](https://github.com/Aaryansinngh/ml-intelligent-firewall)**
+`Python` `LightGBM` `CICIDS2018` `GridSearchCV`
+- Real-time ML-based firewall trained on CIC-IDS-2018, 96–98% detection accuracy, inference under 1ms/sample.
+- GridSearchCV tuning and decision-threshold optimization to minimize false-positive rate for inline, production-style deployment.
 
-## `> tech_stack`
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=161b22)
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC&labelColor=161b22)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C&labelColor=161b22)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=161b22)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25&labelColor=161b22)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C&labelColor=161b22)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E&labelColor=161b22)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=flat-square&logoColor=white&labelColor=161b22)
-![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logoColor=white&labelColor=161b22)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=375BD2&labelColor=161b22)
-
-**Systems & Infrastructure**
-
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624&labelColor=161b22)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688&labelColor=161b22)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED&labelColor=161b22)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032&labelColor=161b22)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003B57&labelColor=161b22)
+**PETER — Personal Execution and Task Engine Runtime**
+`Python` `FastAPI` `WebSockets`
+- Plugin-based automation system with a scored intent-arbitration engine and a three-layer memory architecture for context-aware task execution.
+- Native plugins for browser control, Gmail, and Spotify on a unified FastAPI + WebSocket server for real-time orchestration.
 
 ---
 
-## `> github_stats`
+## Skills
 
-![](https://github-readme-stats.vercel.app/api?username=Aaryansinngh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryansinngh&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact&langs_count=6)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aaryansinngh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff)
-
----
-
-## `> contact`
-
-| Platform       | Link                                                                   |
-| -------------- | ---------------------------------------------------------------------- |
-| 🔗 **LinkedIn** | [aaryansingh-775242317](https://linkedin.com/in/aaryansingh-775242317) |
-| 🐙 **GitHub**   | [Aaryansinngh](https://github.com/Aaryansinngh)                        |
-| 💻 **LeetCode** | [aaryansinngh](https://leetcode.com/u/aaryansinngh/)                   |
-
-*Open to research collaborations, internship opportunities, and interesting problems.*
-*If you're working on AI safety, adversarial ML, or security-critical systems — let's talk.*
+**Languages:** Python · C/C++ · JavaScript · SQL
+**Backend & Systems:** FastAPI · WebSockets · REST APIs · SQLite · PostgreSQL · ChromaDB
+**Machine Learning:** Scikit-learn · LightGBM · Optuna · GridSearchCV · SMOTE · ROC-AUC · Feature Engineering
+**Cybersecurity:** Intrusion Detection · Network Traffic Analysis · Threat Detection · Secure System Design
+**Tools:** Git · Linux · VS Code · CICFlowMeter · Jupyter · Android Studio
 
 ---
 
-```
-"Build things that are not just intelligent, but provably safe."
-```
+## Certifications
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer)
+- **Google Cybersecurity Professional Certificate** — Google/Coursera (Network Security, Risk Management, Security Operations & Incident Response)
+- **IBM SkillsBuild — Artificial Intelligence Fundamentals** — IBM
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Aaryansinngh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryansinngh&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact)
+
+---
+
+<div align="center">
+
+📫 **aaryansinngh8@gmail.com** · [LinkedIn](https://linkedin.com/in/aaryansingh-775242317)
+
+</div>
