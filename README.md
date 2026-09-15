@@ -13,7 +13,7 @@
 
 ## About
 
-Second-year B.Tech Computer Science & Engineering student at Manipal University Jaipur, working across machine learning, cybersecurity, and full-stack systems. Currently under academic evaluation for two co-authored research papers — a leakage-free intrusion detection framework and a diabetes-risk prediction pipeline. Google Cybersecurity certified, with IBM SkillsBuild AI Fundamentals as well.
+ B.Tech Computer Science & Engineering student at Manipal University Jaipur, working across machine learning, cybersecurity, and full-stack systems. Currently under academic evaluation for two co-authored research papers — a leakage-free intrusion detection framework and a diabetes-risk prediction pipeline. Google Cybersecurity certified, with IBM SkillsBuild AI Fundamentals as well.
 
 ---
 
